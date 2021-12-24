@@ -1,0 +1,47 @@
+ 10 elementos = 0.000004 segundos
+
+ 20 elementos = 0.000015 segundos
+
+ 40 elementos = 0.000041 segundos
+
+ 80 elementos = 0.000403 segundos
+
+ 160 elementos = 0.002676 segundos
+
+ 320 elementos = 0.024167 segundos
+
+ 640 elementos = 0.056221 segundos
+
+ 1280 elementos = 0.515037 segundos
+
+ 2560 elementos = 4.501718 segundos
+
+ 5120 elementos = 13.339122 segundos
+
+ 10240 elementos = 132.068649 segundos
+ 
+  2560 elementos = 4.436898 segundos
+
+ 3060 elementos = 4.517003 segundos
+
+ 3560 elementos = 4.939384 segundos
+
+ 4060 elementos = 14.719734 segundos
+
+ 4560 elementos = 15.409518 segundos
+
+ 5060 elementos = 14.946096 segundos
+
+ 5560 elementos = 44.471745 segundos
+
+ 6060 elementos = 43.930346 segundos
+
+ 6560 elementos = 44.286025 segundos
+
+ 7060 elementos = 44.185314 segundos
+
+ 7560 elementos = 45.201612 segundos
+
+ 8060 elementos = 43.965398 segundos
+
+ 8560 elementos = 133.449276 segundos
