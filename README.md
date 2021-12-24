@@ -1,4 +1,4 @@
-# Compare Stoogesort Merge e Heap
+# Compare Stoogesort, Merge e Heap
 
 Trabalho proposto na disciplina de Laboratório de Projeto e Análise de Algoritmos, desenvolvido pelo aluno Thiago Emanuel Silva Antunes Lopes, estudante do curso de Bacharelado em Ciência da Computação do IFNMG Campus Montes Claros.
 
